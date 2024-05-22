@@ -19,7 +19,7 @@ The script performs the following steps:
     Uses Seaborn to plot the time series data and saves the plot as an image file.
 Notes
 
-    Ensure you have a valid Google Earth Engine account and the necessary permissions to access the data.
+    Ensure to have a valid Google Earth Engine account and the necessary permissions to access the data.
     The script uses the NDWI threshold of 0.25 to identify water pixels. Adjust this threshold if needed based on your specific requirements.
 
 Deliverables
